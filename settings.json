@@ -1,0 +1,37 @@
+{
+    "editor.formatOnSave": false,
+    "files.autoSave": "onFocusChange",
+    "php.suggest.basic": false,
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "**/*.js": true,
+        "**/*.ts": true,
+        "**/*.vue": true,
+        "**/*.lock": true,
+        "**/*.xml": true,
+    },
+    "cSpell.words": [
+        "authed",
+        "backlink",
+        "displayname",
+        "Doesnt",
+        "Notif",
+        "Queueable",
+        "Spatie",
+        "آیتم",
+        "پاسخ",
+        "تخفیف",
+        "تکمیل",
+        "تولید",
+        "جدید",
+        "کمپین",
+        "لینک",
+        "محتوا",
+        "مدیریت",
+        "مورد",
+        "موفقیت"
+    ],
+    "editor.wordSeparators": "`~!@#%^&*()-=+[{]}\\|;:'\",.<>/?"
+}

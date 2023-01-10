@@ -1,0 +1,25 @@
+{
+    "recommendations": [
+        "streetsidesoftware.code-spell-checker",
+        "ms-azuretools.vscode-docker",
+        "editorconfig.editorconfig",
+        "ctf0.env-symbol-provider",
+        "vector-of-bool.gitflow",
+        "eamodio.gitlens",
+        "ctf0.laravel-goto-config",
+        "ctf0.laravel-goto-env",
+        "ctf0.laravel-goto-lang",
+        "ctf0.laravel-goto-path",
+        "onecentlin.laravel5-snippets",
+        "ctf0.php-array-symbols",
+        "bmewburn.vscode-intelephense-client",
+        "st-pham.php-refactor-tool",
+        "esbenp.prettier-vscode",
+        "ms-vscode-remote.remote-ssh",
+        "ms-vscode-remote.remote-ssh-edit",
+        "ms-vscode.remote-explorer",
+        "vue.volar",
+        "pkief.material-icon-theme",
+        "k--kato.intellij-idea-keybindings",
+    ]
+}
