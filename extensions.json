@@ -21,5 +21,8 @@
         "vue.volar",
         "pkief.material-icon-theme",
         "k--kato.intellij-idea-keybindings",
+        "omthemes.omthemes",
+        "akamud.vscode-theme-onedark",
+        "tarik02.php-imports"
     ]
 }

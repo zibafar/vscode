@@ -1,7 +1,13 @@
 {
-    "editor.formatOnSave": false,
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll": true,
+        "source.organizeImports": true,
+        "source.sortMembers": true
+    },
     "files.autoSave": "onFocusChange",
     "php.suggest.basic": false,
+    "php-imports.unused.enable": true,
     "search.exclude": {
         "**/node_modules": true,
         "**/bower_components": true,
